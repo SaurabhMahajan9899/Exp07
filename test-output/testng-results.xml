@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-09-08T06:57:45Z" name="Default suite" finished-at="2021-09-08T06:58:02Z" duration-ms="17097">
+    <groups>
+    </groups>
+    <test started-at="2021-09-08T06:57:45Z" name="Default test" finished-at="2021-09-08T06:58:02Z" duration-ms="17097">
+      <class name="com.seleniumtest.seleniumtest.amazondemotest">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.seleniumtest.seleniumtest.amazondemotest@573906eb]" started-at="2021-09-08T06:57:45Z" name="beforeTest" finished-at="2021-09-08T06:57:46Z" duration-ms="1284" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.seleniumtest.seleniumtest.bingdemotest@479ceda0]" started-at="2021-09-08T06:57:46Z" name="beforeTest" finished-at="2021-09-08T06:57:47Z" duration-ms="814" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="testJbkTitle()[pri:0, instance:com.seleniumtest.seleniumtest.amazondemotest@573906eb]" started-at="2021-09-08T06:57:47Z" name="testJbkTitle" finished-at="2021-09-08T06:58:01Z" duration-ms="13534" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testJbkTitle -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.seleniumtest.seleniumtest.amazondemotest@573906eb]" started-at="2021-09-08T06:58:02Z" name="afterTest" finished-at="2021-09-08T06:58:02Z" duration-ms="315" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.seleniumtest.seleniumtest.bingdemotest@479ceda0]" started-at="2021-09-08T06:58:02Z" name="afterTest" finished-at="2021-09-08T06:58:02Z" duration-ms="204" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.seleniumtest.seleniumtest.amazondemotest -->
+      <class name="com.seleniumtest.seleniumtest.bingdemotest">
+        <test-method signature="testJbkTitle()[pri:0, instance:com.seleniumtest.seleniumtest.bingdemotest@479ceda0]" started-at="2021-09-08T06:58:01Z" name="testJbkTitle" finished-at="2021-09-08T06:58:02Z" duration-ms="922" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testJbkTitle -->
+      </class> <!-- com.seleniumtest.seleniumtest.bingdemotest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
